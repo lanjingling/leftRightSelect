@@ -23,3 +23,4 @@
 	[{id:1,text:"ceshi1"},{id:2,text:"ceshi2"}]
 
 3、实例：<br>
+![image](https://github.com/lanjingling/leftRightSelect/blob/master/lrs.png)
