@@ -21,3 +21,5 @@
 	dimensionSelBox.loadLeft(url);
 	<br>其中test.json中的数据为：<br>
 	[{id:1,text:"ceshi1"},{id:2,text:"ceshi2"}]
+
+3、实例：<br>
