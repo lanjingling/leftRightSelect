@@ -1,7 +1,7 @@
 # leftRightSelect
 基于jQuery开发的左右选择列表插件，类似于multiselect.js、Bootstrap Dual Listbox、extjs itemselector <br><br>
 1、使用方法：<br>
- &nbsp;1.在需要使用的页面引入jquery.js、leftRightSelect.js和leftRightSelect.css<br>
+ &nbsp;1.在需要使用leftRightSelect组件的页面引入jquery.js、leftRightSelect.js和leftRightSelect.css<br>
  &nbsp;2.初始化代码：<br>
   &lt;div class="leftrightSel" id="selectbox"&gt; <br>
   var dimensionSelBox = $("#selectbox").leftRigthSel({
